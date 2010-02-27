@@ -1413,11 +1413,11 @@ https://developer.skype.com/Docs/Skype4COM is the official documentation and ref
 
 =head1 AUTHOR
 
-Michael Coppola <MNCoppola@cox.net>
+Michael Coppola <mncoppola@cpan.org>
 
 =head1 BUGS
 
-Please report any bugs or feature requests to MNCoppola at cox dot net, and I'll be sure to get back to you.
+Please report any bugs or feature requests to mncoppola at cpan dot org, and I'll be sure to get back to you.
 
 Known bugs in this module:
 
