@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Win32-Skype.t
+lib/Win32/Skype.pm
+license.txt

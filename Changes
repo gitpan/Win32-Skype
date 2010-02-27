@@ -1,0 +1,6 @@
+Revision history for Perl extension Win32::Skype.
+
+0.01  Sat Feb 27 14:23:16 2010
+	- original version; created by h2xs 1.23 with options
+		-AX --skip-exporter --use-new-tests -n Win32::Skype
+
